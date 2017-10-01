@@ -1,0 +1,24 @@
+{
+  "name": "kebab-files",
+  "version": "1.0.0",
+  "description": "Smartly normalize filenames in a directory by stripping down filenames to alphanumeric characters with hyphens.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fantasyui-com/kebab-files.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fantasyui-com/kebab-files/issues"
+  },
+  "homepage": "https://github.com/fantasyui-com/kebab-files#readme",
+  "dependencies": {
+    "commander": "^2.11.0",
+    "lodash": "^4.17.4"
+  }
+}
