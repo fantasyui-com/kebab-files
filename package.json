@@ -22,7 +22,7 @@
   "homepage": "https://github.com/fantasyui-com/kebab-files#readme",
   "dependencies": {
     "commander": "^2.11.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.14",
     "path-exists": "^3.0.0",
     "superb": "^3.0.0"
   }
