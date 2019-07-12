@@ -1,6 +1,6 @@
 {
   "name": "kebab-files",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "description": "Smartly normalize filenames in a directory by stripping down filenames to alphanumeric characters with hyphens.",
   "main": "index.js",
   "bin": {
